@@ -86,12 +86,12 @@ README.md        # Project documentation
 - Cross-platform compatibility  
 
 Export as:  
-Demo.Gif  
+Demo.Gif.mp4  
 3. Upload to GitHub repo  
 Create a folder:  
 assets/  
 Upload:  
-assets/Demo.Gif  
+assets/Demo.Gif.mp4 
 
 ## 🎥 Demo
   ![Jarvis Demo](assets/Demo.Gif.mp4)  
