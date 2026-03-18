@@ -95,6 +95,7 @@ assets/demo.gif
 
 ## 🎥 Demo
   ![Jarvis Demo](assets/demo.gif)  
+assets/demo.gif
 
 
 
