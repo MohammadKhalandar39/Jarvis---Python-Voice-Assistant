@@ -2,15 +2,16 @@
 Jarvis is a Python-based voice assistant that can perform various tasks like opening applications, searching the web, telling jokes, fetching news, checking system status, and more — all through voice commands.
 
 ## 📑 Table of Contents
-- Jarvis - Python Voice Assistant  
-- Features  
-- Technologies Used  
-- Installation  
-- Usage  
-- Important Notes  
-- Security Warning  
-- Project Structure  
-- Future Improvements  
+
+- [Jarvis - Python Voice Assistant](#-jarvis---python-voice-assistant)
+- [Features](#-features)
+- [Technologies Used](#️-technologies-used)
+- [Installation](#-installation)
+- [Usage](#️-usage)
+- [Important Notes](#️-important-notes)
+- [Security Warning](#-security-warning)
+- [Project Structure](#-project-structure)
+- [Future Improvements](#-future-improvements) 
 
 ## Features
 - Voice recognition using speech input  
