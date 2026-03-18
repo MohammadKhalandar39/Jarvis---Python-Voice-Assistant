@@ -85,7 +85,7 @@ README.md        # Project documentation
 - Better error handling  
 - Cross-platform compatibility  
 
-## 🎥 Demo  
+## 🎥 Demo
 ![Jarvis Demo](assets/demo.gif)  
 
 
