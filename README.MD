@@ -85,6 +85,14 @@ README.md        # Project documentation
 - Better error handling  
 - Cross-platform compatibility  
 
+Export as:  
+demo.gif  
+3. Upload to GitHub repo  
+Create a folder:  
+assets/  
+Upload:  
+assets/demo.gif  
+
 ## 🎥 Demo
 ![Jarvis Demo](assets/demo.gif)  
 
