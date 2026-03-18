@@ -85,23 +85,12 @@ README.md        # Project documentation
 - Better error handling  
 - Cross-platform compatibility  
 
-Export as:  
-demo.gif.mp4
-3. Upload to GitHub repo  
-Create a folder:  
-assets/  
-Upload:  
-assets/demo.gif.mp4
 
 ## 🎥 Demo
   ![Jarvis Demo](assets/demo.gif.mp4)  
 
-![Demo](assets/github_readme.gif)
 
-## Demo
-[![Demo](assets/demo.gif)](https://link-to-full-video)
-
-
+[![Demo](assets/demo.gif)](assets/demo.mp4)
 
 
 
