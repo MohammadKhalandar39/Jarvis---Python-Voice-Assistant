@@ -96,6 +96,9 @@ assets/demo.gif.mp4
 ## 🎥 Demo
   ![Jarvis Demo](assets/demo.gif.mp4)  
 
+## Demo
+[![Demo](assets/demo.gif)](https://link-to-full-video)
+
 
 
 
