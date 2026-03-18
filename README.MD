@@ -89,6 +89,8 @@ README.md        # Project documentation
 ## 🎥 Demo
   ![Jarvis Demo](assets/demo.gif.mp4)  
 
+https://github.com/user-attachments/assets/05424ca4-2a8e-4052-af08-4ee0ebf89b55
+
 
 [![Demo](assets/demo.gif)](assets/demo.mp4)
 
