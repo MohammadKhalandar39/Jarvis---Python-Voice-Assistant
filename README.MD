@@ -91,10 +91,10 @@ demo.gif
 Create a folder:  
 assets/  
 Upload:  
-assets/demo.gif 
+assets/demo.gif
 
 ## 🎥 Demo
-  ![Jarvis Demo](assets/demo.gif)  
+  ![Jarvis Demo](assets/demo.gif.mp4)  
 assets/demo.gif
 
 
