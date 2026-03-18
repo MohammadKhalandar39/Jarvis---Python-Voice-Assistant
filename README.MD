@@ -94,7 +94,7 @@ Upload:
 assets/Demo.Gif  
 
 ## 🎥 Demo
-![Jarvis Demo](assets/Demo.Gif)  
+  ![Jarvis Demo](assets/Demo.Gif.mp4)  
 
 
 
